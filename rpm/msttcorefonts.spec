@@ -210,5 +210,5 @@ fi
 - removed cabextact from this package
 - added tahoma font from ie5.5 update
 
-* Fri Aug 25 2001 Daniel Resare <noa@metamatrix.se>
+* Sat Aug 25 2001 Daniel Resare <noa@metamatrix.se>
 - initial version
